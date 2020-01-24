@@ -36,7 +36,9 @@ dart test/api_test.dart
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+```
+flutter build apk --release
+```
 
 ## Built With
 
