@@ -2,18 +2,25 @@
 
 L-Cam is an flutter project for taking an picture automatically and send it to server
 
+## Release Notes
+
+* v1.0 - Build 24 January 2020 : First Release 
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
 
 ### Prerequisites
 
 * Flutter SDK installed (1.12.13+hotfix.5)
 * Visual Studio Code or Android Studio
 
+
 ## Running the tests
 
 This application using an mockito for unit testing and Flutter Driver for Integration Testing
+
 
 ### Integration Testing
 
@@ -44,9 +51,11 @@ flutter build apk --release
 
 * [Flutter](https://flutter.dev/) - The framework used
 
+
 ## Authors
 
 * **PT.LSKK**
+
 
 ## License
 
